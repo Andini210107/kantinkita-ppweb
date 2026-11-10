@@ -1,0 +1,56 @@
+[
+  {
+    "id": "menu-1",
+    "name": "Nasi Ayam Geprek",
+    "canteen": "Kantin Neo 1",
+    "description": "Pedas gurih nampol, pilihan level pedas 1-5 dengan sambal bawang segar.",
+    "price": 15000,
+    "category": "Makanan",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB6TjhY3fUPeDqhUXIbGoEFHtNwY1Iaosuz-xRzRD3hqCCzRwguBS3Ppy7Z5dkpjI3orK0VMOK7VAQgOQMBrVo5kRVWjwuQOuZj1nCc_M5V5rBZqisCBhzVn2Zd0IIH1EZgtZCXOEVuF9AnfmOU3zfJkcGhs-NG_1tO7DRfih1t7W32SNfYtffAykx-nuynQ0shOAZ386l3Vy37QeErPZl1Uq5YzG_U68OGUTOwFO2e"
+  },
+  {
+    "id": "menu-2",
+    "name": "Nasi Goreng Spesial",
+    "canteen": "Kantin Neo 1",
+    "description": "Nasi goreng bumbu racik khas kantin, lengkap telur ceplok dan kerupuk.",
+    "price": 12000,
+    "category": "Makanan",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBkBXch28JOY1cTNoEs47WcuRdFIkd0Vb0tqLuBoj__VDDcer3yU57bqUBnpsY4fxVub651OZqkyVsjXdIOhyWnkFreO8RxDiwKQ-Y3HNULqmk_M7EqNN95gUeVfStnO8IturwYkX75-Lh8Sz1AP3mB8jp4TTQiFkT-ptb6pnTQiLMMWbrOLJkt0H2JhS9V01B1m4z8JpJZc91025kVAw0ojCQn8lLrpm9Eu-RnrpEE"
+  },
+  {
+    "id": "menu-3",
+    "name": "Mie Ayam Pangsit",
+    "canteen": "Kantin Neo 3",
+    "description": "Mie kenyal gurih dengan topping ayam jamur melimpah dan pangsit renyah.",
+    "price": 13000,
+    "category": "Makanan",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB2FCKCqBD8pMeXSVcH4dMvv7LlFV1Iy-Y8StMZq8nOYQfVNhRAbT67La4Tu3thkiMtsA7OoxbkOXHD2iGiP_sy-fVQxyWSiOMBvYZtSbHU5Ulu7l7o6ub_uninChc16uMQk5YgKez_wjzdR5mR5_sM0Pa90Djoi5OoiTcnNbPnteTfjI4WoNSIlcNcY1g5EBT3MMvbfKk5230hilPDyocTXXO2r_S1UKz9pclwnoZx"
+  },
+  {
+    "id": "menu-4",
+    "name": "Es Teh Manis Jumbo",
+    "canteen": "Kantin Neo 1 & 3",
+    "description": "Penyegar dahaga sehabis matkul, porsi jumbo manis pas aroma melati.",
+    "price": 4000,
+    "category": "Minuman",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD3HfIfW19v2j1U0lndGtN6B1JRjAzgvuBbDfyk1HB5EXNhf37GqtathU2di_FNnum_lQw5gIPvgaN8ayqfD4KuMCWqchmjbZZPVaJVv4_gOF22rMZVKsYjG_eGgd8BCJ0-I7JzjyWgQVw0TXn2f_HHRD3IFtnzHACpdfE2SWnQ-9Z5ANWTXMpDyJsIAcvY0q4SZAozRVYxUKo1AmFyGORzMW72aUQkH70Xzp2cg72s"
+  },
+  {
+    "id": "menu-5",
+    "name": "Tahu Crispy Sambal Kecap",
+    "canteen": "Kantin Neo 1",
+    "description": "8 pcs tahu goreng tepung renyah gurih disajikan dengan sambal kecap pedas.",
+    "price": 8000,
+    "category": "Camilan",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCI86i11fq_h0gJ4g9eofkWFTGsBuGbEfg48zKLU3PIboleKNLYCsM9erNJ20t8mrmjXWuM3APmqkbFCM3FdnPi7d0cpKWjxC0Zqgz_mIXrfyo1A4VGHWjXjQ8oHaRwBc8-S2NJIyFyZWuFxD9Kaq0mgiKReYPOItrLqGRvd_nJb6klFPch-k_A4h6a3jO7Osaggym2tdSq1ty6qV07bZNJaBVaO1EqAuRtv9LbsFB1"
+  },
+  {
+    "id": "menu-6",
+    "name": "Ayam Bakar Madu",
+    "canteen": "Kantin Neo 1",
+    "description": "Ayam bakar empuk bumbu madu karamel gurih manis disajikan lengkap nasi hangat.",
+    "price": 18000,
+    "category": "Makanan",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuANrE5xebrDejYyoK8hBqlN2zb-DUU-bydLw6PBXJkqpsTa0iFA6VW9248C1H1IWPe2fZBE2kIq0sxY9DJco_fL9gwvsKoDvHWlKIqndwV6v5iC-XtmBg-j_riVquCw2ylrv1WYLUrf1Dx1ymwUtFjUV0-PB-0DxwOOF2bWx23DCnmKQ8lIw_6pfGKWi3Ho8RLPslNGN6A6CbDDxa546Zfd0q4K24rYp8UUK0_ppzVq"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "neo-1",
+    "name": "Kantin Neo 1",
+    "location": "Gedung B Lt 1",
+    "hours": "08.00 - 16.30 WIB",
+    "rating": "4.8",
+    "reviews": "320+ ulasan",
+    "distance": "2 mnt dari Gd. B",
+    "description": "Pusat ayam geprek sambal korek fresh, aneka masakan ramesan harian, jus buah segar & es teh jumbo hemat mahasiswa.",
+    "tags": ["Ayam Geprek", "Nasi Rames", "Jus & Minuman"],
+    "estimate": "5-10 mnt",
+    "menuCount": 24,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB6TjhY3fUPeDqhUXIbGoEFHtNwY1Iaosuz-xRzRD3hqCCzRwguBS3Ppy7Z5dkpjI3orK0VMOK7VAQgOQMBrVo5kRVWjwuQOuZj1nCc_M5V5rBZqisCBhzVn2Zd0IIH1EZgtZCXOEVuF9AnfmOU3zfJkcGhs-NG_1tO7DRfih1t7W32SNfYtffAykx-nuynQ0shOAZ386l3Vy37QeErPZl1Uq5YzG_U68OGUTOwFO2e"
+  },
+  {
+    "id": "neo-3",
+    "name": "Kantin Neo 3",
+    "location": "Gedung Utama Lt 2",
+    "hours": "07.30 - 17.00 WIB",
+    "rating": "4.9",
+    "reviews": "450+ ulasan",
+    "distance": "3 mnt dari Perpustakaan",
+    "description": "Mie ayam jamur kenyal gurih, bakso kuah sapi asli, kopi susu gula aren kampus & cemilan renyah untuk nemenin diskusi tugas.",
+    "tags": ["Mie Ayam & Bakso", "Kopi Susu", "Snack Hangat"],
+    "estimate": "3-7 mnt",
+    "menuCount": 18,
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB2FCKCqBD8pMeXSVcH4dMvv7LlFV1Iy-Y8StMZq8nOYQfVNhRAbT67La4Tu3thkiMtsA7OoxbkOXHD2iGiP_sy-fVQxyWSiOMBvYZtSbHU5Ulu7l7o6ub_uninChc16uMQk5YgKez_wjzdR5mR5_sM0Pa90Djoi5OoiTcnNbPnteTfjI4WoNSIlcNcY1g5EBT3MMvbfKk5230hilPDyocTXXO2r_S1UKz9pclwnoZx"
+  }
+]
